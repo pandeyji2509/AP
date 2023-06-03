@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AP/static/css/main.1174649b.css",
-    "main.js": "/AP/static/js/main.2fd31e60.js",
+    "main.js": "/AP/static/js/main.6b4533fb.js",
     "static/media/Ankitfb.jpg": "/AP/static/media/Ankitfb.25a97d608b7c801d8b20.jpg",
     "static/media/logo.png": "/AP/static/media/logo.3125611aca4e4d2a9513.png",
     "index.html": "/AP/index.html",
     "main.1174649b.css.map": "/AP/static/css/main.1174649b.css.map",
-    "main.2fd31e60.js.map": "/AP/static/js/main.2fd31e60.js.map"
+    "main.6b4533fb.js.map": "/AP/static/js/main.6b4533fb.js.map"
   },
   "entrypoints": [
     "static/css/main.1174649b.css",
-    "static/js/main.2fd31e60.js"
+    "static/js/main.6b4533fb.js"
   ]
 }
