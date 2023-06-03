@@ -15,7 +15,7 @@ const INFO = {
 	homepage: {
 		title: "Full-stack web developer (MERN)",
 		description:
-			"I am a Full-stack web developer with expertise in React JS. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Hii,My name is Ankit Pandey. I am a Full-stack web developer with expertise in React JS. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
 	},
 
 	about: {
@@ -33,6 +33,7 @@ const INFO = {
 	projects: [
 		{
 			title: "Idronam in react",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			description:
 				"Working as an intern with menthosa solutions to build www.idronam.com in react",
 			    linkText: "View Project",
@@ -41,6 +42,7 @@ const INFO = {
 
 		{
 			title: "Chat app",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			description:
 				"Build chat app using websockets and Node js. you can have group chats by creating rooms and one to one chats too.",
 				linkText: "View Project",
@@ -49,6 +51,7 @@ const INFO = {
 
 		{
 			title: "Touriella",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			description:
 				"Worked as a freelancer on building front-end of a travel app but the project got dropped",
 			    linkText: "View Project",
@@ -57,6 +60,7 @@ const INFO = {
 
 		{
 			title: "Geofencing",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			description:
 				"Make polygon on a google map and detecting clicks on it and get coordiantes of polygon",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
@@ -66,6 +70,7 @@ const INFO = {
 
 		{
 			title: "Build a cart feature",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			description:
 				"Build a webpage using pagination to show data of job seekers and implemented features like filters and cart to select candidates",
 				linkText: "View Project",
