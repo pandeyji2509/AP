@@ -7,7 +7,8 @@ const INFO = {
 	},
 
 	socials: {
-		github: "https://github.com/",
+		twitter:"https://twitter.com/Pandeyji2509",
+		github: "https://github.com/pandeyji2509",
 		linkedin: "https://www.linkedin.com/in/ankit-pandey-3560ab1a1/",
 		instagram: "https://www.instagram.com/pandeyji2509/",
 	},
@@ -74,7 +75,7 @@ const INFO = {
 			description:
 				"Build a webpage using pagination to show data of job seekers and implemented features like filters and cart to select candidates",
 				linkText: "View Project",
-				link: "https://github.com/pandeyji2509/heliverse",
+				link: "https://pandeyji2509.github.io/heliverse/",
 		},
 	],
 };
