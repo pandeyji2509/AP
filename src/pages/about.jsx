@@ -45,11 +45,11 @@ const About = () => {
 							<div className="about-left-side">
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
-										<img
+										{/* <img
 											src="about.jpg"
 											alt="about"
 											className="about-image"
-										/>
+										/> */}
 									</div>
 								</div>
 
